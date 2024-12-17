@@ -27,11 +27,15 @@ Test the application's functionality and database availability.
 
 After starting the application container, the browser view should look as follows:
 
-![01](./screenshot/01.png)
+![result_01](./screenshot/result_01.png)
 
 If everything is correctly configured in the `docker-compose.yaml` file, clicking the `Check DB` button should show the following:
 
-![02](./screenshot/02.png)
+![result_02](./screenshot/result_02.png)
+
+Executing a program in the terminal:
+
+![result_03](./screenshot/result_03.png)
 
 #### Acceptance Criteria
 
